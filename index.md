@@ -1,3 +1,3 @@
-# Welcome
+# Hello
 
-You are probally in the wrong place, try looking [here](https://kaleko.ga/)
+You are most likley in the wrong place, try looking [here](https://kaleko.ga/) instead
